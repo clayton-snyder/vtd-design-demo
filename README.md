@@ -9,7 +9,7 @@ Things you can do:
   * Spray the bug swarms
   * Run out of oxygen and die (bar on the bottom of the screen represents remaining oxygen)
   * Return to your ship to replenish oxygen and remove all the bugs you’ve sprayed from the map
-
-
-Arrow keys to move
-E to interact (with bug swarms or with your ship)
+  
+  Arrow keys to move
+  
+  E to interact (with bug swarms or with your ship)
